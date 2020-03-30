@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scr</folder>
+	<filename>20190315_114103_34.jpg</filename>
+	<path>D:\scr\20190315_114103_34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wcq-DuoJiaoYuTou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>117</ymin>
+			<xmax>307</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
