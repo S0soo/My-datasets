@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4wc</folder>
+	<filename>20190524_203202_28.jpg</filename>
+	<path>D:\jiancha\scr\4wc\20190524_203202_28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WCQzf-Hua_Duo_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>150</ymin>
+			<xmax>547</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

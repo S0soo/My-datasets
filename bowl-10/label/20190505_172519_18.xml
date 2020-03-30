@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190505_172519_18.jpg</filename>
+	<path>D:\src\20190505_172519_18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Tuo_Yuan_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>162</ymin>
+			<xmax>383</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190509_102127_26.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\src\20190509_102127_26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Ao_Yuan_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>231</ymin>
+			<xmax>521</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

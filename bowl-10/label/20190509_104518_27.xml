@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190509_104518_27.jpg</filename>
+	<path>E:\label3\src\20190509_104518_27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Shuang_Er_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>149</ymin>
+			<xmax>492</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

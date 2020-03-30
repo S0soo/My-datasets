@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>20190430_094224_12.jpg</filename>
+	<path>D:\scr\10\20190430_094224_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Ao_Yuan_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>127</ymin>
+			<xmax>546</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

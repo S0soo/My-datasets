@@ -1,0 +1,26 @@
+<annotation>
+	<folder>l14</folder>
+	<filename>20190505_085722_14.jpg</filename>
+	<path>D:\scr\l14\20190505_085722_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Da_Yuan_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>139</ymin>
+			<xmax>629</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

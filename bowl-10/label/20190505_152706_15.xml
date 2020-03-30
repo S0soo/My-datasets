@@ -1,0 +1,26 @@
+<annotation>
+	<folder>l15</folder>
+	<filename>20190505_152706_15.jpg</filename>
+	<path>D:\scr\l15\20190505_152706_15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Da_Tang_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>147</ymin>
+			<xmax>424</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

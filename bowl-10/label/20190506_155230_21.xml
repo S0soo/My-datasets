@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190506_155230_21.jpg</filename>
+	<path>D:\src\20190506_155230_21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Fan_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>122</ymin>
+			<xmax>498</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

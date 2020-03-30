@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190505_150716_13.jpg</filename>
+	<path>D:\src\20190505_150716_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Shuang_Er_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>189</ymin>
+			<xmax>556</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

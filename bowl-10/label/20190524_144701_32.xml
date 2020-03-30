@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190524_144701_32.jpg</filename>
+	<path>D:\src\20190524_144701_32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Mian_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>8</ymin>
+			<xmax>638</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

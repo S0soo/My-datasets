@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>20190430_145330_8.jpg</filename>
+	<path>D:\scr\3\20190430_145330_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Xiao_Yuan_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>199</ymin>
+			<xmax>366</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

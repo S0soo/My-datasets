@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190505_160156_17.jpg</filename>
+	<path>D:\src\20190505_160156_17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Xiao_Yuan_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>69</ymin>
+			<xmax>444</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190430_145016_8.jpg</filename>
+	<path>E:\label1\src\20190430_145016_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Da_Tang_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>106</ymin>
+			<xmax>622</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

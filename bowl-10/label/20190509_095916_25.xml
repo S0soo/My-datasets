@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190509_095916_25.jpg</filename>
+	<path>D:\src\20190509_095916_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Mian_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>81</ymin>
+			<xmax>495</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

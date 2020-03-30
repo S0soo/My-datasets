@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190430_092727_12.jpg</filename>
+	<path>D:\src\20190430_092727_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Xiao_Tang_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>134</ymin>
+			<xmax>395</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

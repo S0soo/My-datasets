@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190508_161833_22.jpg</filename>
+	<path>D:\src\20190508_161833_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JYsf-Fan_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>244</ymin>
+			<xmax>432</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>
