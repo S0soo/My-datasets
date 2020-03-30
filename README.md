@@ -7,7 +7,7 @@ Here are four datasets:
 
  __bowl-95:__ Bowl object detection dataset, contains 95 types of bowls. 
 
- __CNFood-252:__ Food object detection dataset, contains 252 types of bowls. 
+ __CNFood-252:__ Food object detection dataset, contains 252 types of food. 
 
  __FewFood-50:__ Few shot learning food dataset, build from Omniglot dataset, contains 50 types of food. 
 
