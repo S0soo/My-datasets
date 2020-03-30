@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>20190824_174500_7.jpg</filename>
+	<path>D:\jiancha\src\2\20190824_174500_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HZYJPL-Fan_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>229</ymin>
+			<xmax>286</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

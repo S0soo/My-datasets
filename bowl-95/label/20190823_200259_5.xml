@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190823_200259_5.jpg</filename>
+	<path>E:\src\20190823_200259_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HZYJPL-Hong_Se_Yuan_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>123</ymin>
+			<xmax>601</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

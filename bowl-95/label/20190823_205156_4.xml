@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>20190823_205156_4.jpg</filename>
+	<path>D:\jiancha\src\1\20190823_205156_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HZYJPL-Bai_Se_Hua_Duo_Wan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>145</ymin>
+			<xmax>460</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

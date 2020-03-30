@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>src</folder>
+	<filename>20190704_160743_9.jpg</filename>
+	<path>D:\src\20190704_160743_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJxy-Yuan_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>27</ymin>
+			<xmax>438</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

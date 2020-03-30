@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>src</folder>
+	<filename>20191015_200741_6.jpg</filename>
+	<path>D:\src\20191015_200741_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SHKJ-Bai_Se_Xiao_Fang_Die</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>221</ymin>
+			<xmax>335</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SHKJ-Lv_Se_Cai_Die</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>220</ymin>
+			<xmax>631</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

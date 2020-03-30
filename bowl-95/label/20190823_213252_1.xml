@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190823_213252_1.jpg</filename>
+	<path>E:\label9\src\20190823_213252_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HZYJPL-Ka_Fei_Yuan_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>1</ymin>
+			<xmax>409</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

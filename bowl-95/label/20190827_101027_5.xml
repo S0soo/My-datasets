@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190827_101027_5.jpg</filename>
+	<path>E:\label12\src\20190827_101027_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ZNLD-Bai_Fang_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>19</ymin>
+			<xmax>544</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

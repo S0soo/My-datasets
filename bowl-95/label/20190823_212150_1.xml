@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>20190823_212150_1.jpg</filename>
+	<path>D:\jiancha\src\6\20190823_212150_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HZYJPL-Ka_Fei_Yuan_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>1</ymin>
+			<xmax>626</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

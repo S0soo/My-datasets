@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>20190822_135148_38.jpg</filename>
+	<path>D:\src\20190822_135148_38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>YKMZ-Ju_Se_Mian_Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>58</ymin>
+			<xmax>559</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
